@@ -1,0 +1,14 @@
+crewai
+crewai-tools
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+mem0ai
+groq
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
